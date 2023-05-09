@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senac.GestaoReceita.WebApi", "Senac.GestaoReceita.WebApi\Senac.GestaoReceita.WebApi.csproj", "{A9233A7C-444E-4021-8A7E-FB785E797440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9233A7C-444E-4021-8A7E-FB785E797440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9233A7C-444E-4021-8A7E-FB785E797440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9233A7C-444E-4021-8A7E-FB785E797440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9233A7C-444E-4021-8A7E-FB785E797440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43AA2B74-4B2C-4110-AE55-65DF28DF2C9D}
+	EndGlobalSection
+EndGlobal
